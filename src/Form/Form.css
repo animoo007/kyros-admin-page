@@ -1,0 +1,9 @@
+.common-form-container {
+  font-family: sans-serif;
+  text-align: center;
+  max-width: 400px;
+  padding: 100px;
+}
+.error {
+  border: 1px solid red;
+}
